@@ -22,7 +22,7 @@ public class FilmController {
 		
 	}
 	
-	@RequestMapping("/addFilm")
+	@RequestMapping("/getFilm")
 	public String addAlien(Film film)
 	{
 		
